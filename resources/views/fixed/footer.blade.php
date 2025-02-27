@@ -103,20 +103,20 @@
                     Contact Us
                 </h4>
                 <div class="info_contact">
-                    <a href="">
+                    <a target="_blank" href="https://www.google.com/maps/place/6+W+Wilson+St,+Batavia,+IL+60510,+USA/@41.8498941,-88.3104135,17z/data=!3m1!4b1!4m6!3m5!1s0x880efcc0e15f1229:0x2f86ae65ccc93765!8m2!3d41.8498941!4d-88.3078386!16s%2Fg%2F11csfcrrjn?entry=ttu&g_ep=EgoyMDI1MDIyNS4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D">
                         <i class="fa fa-map-marker" aria-hidden="true"></i>
                         <span>
                   6 W Wilson St
                   Batavia, IL 60510
                 </span>
                     </a>
-                    <a href="">
+                    <a href="tel:+011234567890">
                         <i class="fa fa-phone" aria-hidden="true"></i>
                         <span>
                   +01 1234567890
                 </span>
                     </a>
-                    <a href="">
+                    <a href="mailto:chocodrip@gmail.com">
                         <i class="fa fa-envelope"></i>
                         <span>
                   chocodrip&#64;gmail&#46;com
